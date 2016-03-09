@@ -1,0 +1,1 @@
+Desarrollar una aplicación para la administracion y gestion de los siguientes modulos inventarios, proveedores, facturación, catalogo y agenda virtual para la tienda del peluquero Madein
